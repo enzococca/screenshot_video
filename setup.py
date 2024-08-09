@@ -6,7 +6,7 @@ OPTIONS = {
     'argv_emulation': False,
     'excludes': ['Carbon'],
     'iconfile': 'icon.icns',
-    'packages': ['cv2', 'PyQt5','carbon']
+    'packages': ['cv2', 'PyQt5']
       # Exclude unnecessary packages
 }
 
